@@ -1,0 +1,21 @@
+Beta Translate: betatranslate.designbyirfan.com
+Beta Admin: adminbeta.designbyirfan.com -> Login: kartolo727@gmail.com, Pass: Mangan1
+
+Database Setting:
+http://45.32.116.142:888/phpmyadmin_7c35c89a4ffbbc05/index.php
+
+Username DB Setting: beta
+Password: 3YaERPfj5MsDXhW5
+
+FileZilla - Server
+Host: 
+Username: sipeng
+Password:NLHPZD5Y6XNDkDn5
+
+======================================
+ip :45.32.116.142
+username1 : sipeng1   // Web
+pwd : HZdFaJXfAMsbNmt8
+username2 : sipeng2    // Admin web
+pwd : NLHPZD5Y6XNDkDn5
+======================================
